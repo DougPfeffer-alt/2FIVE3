@@ -1,5 +1,6 @@
 /* entire document */
 
+
 body {
     background-color: rgba(211, 211, 211, 1);
     font-family: italic 1.2em "naratif", "Fira Sans", serif;
@@ -74,7 +75,7 @@ main > article > img {
 main > article > p {
     display: inline-block;
     width: 300px;
-    border: 1px dotted black;
+    border: 0px dotted black;
     text-align: center;
 }
 
