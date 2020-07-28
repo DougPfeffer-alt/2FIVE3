@@ -54,8 +54,9 @@ header > nav > ul > li > a {
 
 main {
     margin: 5px auto;
-    width: 960px;
-    background-color: rgb(160, 168, 180)
+    width: 975px;
+    background-color: rgb(160, 168, 180);
+    border: 5px solid black;
 }
 
 main > article {
@@ -64,6 +65,7 @@ main > article {
     display: inline-block;
     vertical-align: top;
     height: 700px;
+    padding: 5px;
 }
 
 main > article > img {
