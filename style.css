@@ -59,6 +59,10 @@ main {
     border: 5px solid black;
 }
 
+main > h2 {
+    padding: 10px;
+}
+
 main > article {
     width: 310px;
     text-align: center; 
@@ -79,6 +83,7 @@ main > article > p {
     width: 300px;
     border: 0px dotted black;
     text-align: center;
+    padding: 10px;
 }
 
 /* footer only */
