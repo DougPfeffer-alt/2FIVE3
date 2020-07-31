@@ -54,7 +54,7 @@ header > nav > ul > li > a {
 
 main {
     margin: 5px auto;
-    width: 975px;
+    width: 1040px;
     background-color: rgb(160, 168, 180);
     border: 5px solid black;
 }
@@ -65,25 +65,27 @@ main > h2 {
 
 main > article {
     width: 310px;
-    text-align: center; 
     display: inline-block;
+    text-align: center; 
     vertical-align: top;
-    height: 700px;
-    padding: 5px;
+    height: 900px;
+    padding: 5px
 }
 
-main > article > figure > img {
-    width: 290px;
-    border: 5px solid black;
+main > article > img {
+    width: 310px; 
+    border: 10px solid black;
     padding: 5px;
+    float: center;
 }
 
 main > article > p {
     display: inline-block;
-    width: 300px;
-    border: 0px dotted black;
+    float: justify;
+    width: 310px;
+    border: 5px dotted black;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 /* footer only */
