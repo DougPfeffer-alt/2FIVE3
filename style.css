@@ -9,9 +9,9 @@ body {
 
 /* header only */
 header {
+    background-color: pink;
     margin: 0px auto;
-    width: 960px;
-    background-color: rgb(211, 211, 211, 1);
+    width: 1040px;
     height: 260px;
     text-align: center;
     font-size: 25px;
@@ -26,6 +26,8 @@ header > img {
 }
 
 h1 {
+    background-color: orange;
+    width: 1040px;
     text-align: center;
     padding: 30px;
     color: black;
