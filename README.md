@@ -1,3 +1,3 @@
-# 2FIVE3 Racing Website
+# Portfolio Site
 
-Side Project designed to provide a sandbox for new skills
+Portfolio Site highlighting skills
