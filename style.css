@@ -43,6 +43,10 @@ header > nav {
     float: center;
 }
 
+header > nav > ul {
+    background-color:rgb(171,154,154,1)
+}
+
 header > nav > ul > li {
     display: inline-block;
     width: 180px;
@@ -57,7 +61,7 @@ header > nav > ul > li {
 }
 
 li:hover > a {
-    background-color:rgb(166, 146, 154, 1);
+    background-color:rgb(160, 168, 180);
 }
 
 header > nav > ul > li > a {
@@ -97,6 +101,7 @@ main > article > img {
     border-radius: 10px;
     margin-right: 10px;
     box-shadow: 10px 10px 5px grey;
+    background-color: rgb(135, 100, 57, 1);
 }
 
 footer {
@@ -104,6 +109,7 @@ footer {
     text-align: center;
     padding: 10px;
     font-style: italic;
+    font-size: 12px;
 
 }
 
