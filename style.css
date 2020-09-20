@@ -76,11 +76,12 @@ main {
     width: 1140px;
     background-color: rgb(160, 168, 180);
     border: 5px solid black;
-    height: 1040px;
+    height: 1140px;
 }
 
 main > h2 {
     padding: 5px;
+    text-align: center;
 }
 
 main > article {
@@ -102,6 +103,29 @@ main > article > img {
     margin-right: 10px;
     box-shadow: 10px 10px 5px grey;
     background-color: rgb(135, 100, 57, 1);
+}
+
+main > section > img {
+    width: 300px; 
+    border: 5px solid black;
+    margin: 10px 10px 10px 10px;
+    padding: 1px;
+    float: right;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+    box-shadow: 10px 10px 5px grey;
+    background-color: rgb(135, 100, 57, 1);
+}
+
+main > section > h2 {
+    text-align: center;
+}
+
+main > section > p {
+    padding: 10px;
+    font-size: 20px;
 }
 
 footer {
