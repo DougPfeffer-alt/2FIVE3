@@ -49,7 +49,7 @@ header > nav > ul {
 
 header > nav > ul > li {
     display: inline-block;
-    width: 180px;
+    width: 150px;
     border: 10px solid black;
     background-color: rgb(160, 168, 180);
     text-align: center;
