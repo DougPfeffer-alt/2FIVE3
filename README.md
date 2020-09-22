@@ -22,3 +22,5 @@ August 30, 2020 - Major revamp of the page, updating all images, links, and tabs
 September 13, 2020 - Updated projects to include the latest Code Fellows Project
 
 September 19, 2020 - Swapped out a static photo for my 201 project, with a Wheel of Fortune GIF similar to what is found on the actual game site. Also adjusted some styling, and adjusted the font size of the footer.
+
+September 22, 2020 - Added a Biography page, and a link to a future Blog page
